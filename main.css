@@ -1,6 +1,13 @@
+@@font-face {
+
+}
 .wrapper {
   max-width: 940;
   margin 0;
   paddig 0;
   align-items: center;
+}
+h1 {
+  font-family: 'Open Sans', sans-serif;
+  
 }
