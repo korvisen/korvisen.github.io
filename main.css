@@ -9,5 +9,8 @@
 }
 h1 {
   font-family: 'Open Sans', sans-serif;
-  
+
+}
+article {
+  align-self: center;
 }
